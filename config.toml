@@ -19,9 +19,13 @@ url = "$BASE_URL"
 name = "Home"
 
 [[extra.after_dark_menu]]
+url = "$BASE_URL/projects"
+name = "My projects"
+
+[[extra.after_dark_menu]]
 url = "$BASE_URL/blog"
 name = "Blog"
 
 [[extra.after_dark_menu]]
-url = "$BASE_URL/supportme"
+url = "$BASE_URL/support-me"
 name = "Support me!"

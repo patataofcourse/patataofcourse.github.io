@@ -1,0 +1,27 @@
+{% extends "after-dark/templates/index.html" %}
+{{ section.content | safe }}
+
+{% block content %}
+    {% block header %}
+        {% if config.extra.after_dark_menu %}
+            <header>
+                <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+                {% for item in config.extra.after_dark_menu %}
+                    <a itemprop="url"
+                    href="{{ item.url | safe | replace(from="$BASE_URL", to=config.base_url) | safe }}">
+                        <span itemprop="name">{{ item.name }}</span></a>
+                {% endfor %}
+                </nav>
+            </header>
+        {% endif %}
+    {% endblock %}
+
+    <h1>404: there's nothing here!</h1>
+
+    <p>you probably got lost or something idk</p>
+
+    <p>
+        <a href="/">&gt; I'll just go back, thanks</a> <br>
+        <a href="insert-here-a-witty-easter-egg" id="egg">&gt; g o &nbsp; f u r t h e r</a>
+    </p>
+{% endblock %}
