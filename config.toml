@@ -1,0 +1,27 @@
+# The URL the site will be built for
+base_url = "https://patataofcourse.github.io"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "after-dark"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[[extra.after_dark_menu]]
+url = "$BASE_URL"
+name = "Home"
+
+[[extra.after_dark_menu]]
+url = "$BASE_URL/blog"
+name = "Blog"
+
+[[extra.after_dark_menu]]
+url = "$BASE_URL/supportme"
+name = "Support me!"
