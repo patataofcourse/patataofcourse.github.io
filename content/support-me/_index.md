@@ -6,4 +6,4 @@ Modding / making mod tools is a fuck and sometimes it feels like you're working 
 
 You can find my Ko-Fi [here](https://ko-fi.com/patataofcourse) for one-off donations! Feel free to drop some words of support, or to let me know what project of mine you're most invested in :D
 
-I'm also in the process of opening commissions for code patches and tooling - if you're interested, keep an eye out!
+~~I'm also in the process of opening commissions for code patches and tooling - if you're interested, keep an eye out!~~ Update: I got extremely burned out. Oops.

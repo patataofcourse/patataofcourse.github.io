@@ -1,0 +1,3 @@
+- [ ] try to use upstream afterdark with a custom template instead of modifying the theme itself: see https://www.getzola.org/documentation/themes/extending-a-theme/
+- [ ] detail pages a bit more
+- [ ] try to give everything a bit more color

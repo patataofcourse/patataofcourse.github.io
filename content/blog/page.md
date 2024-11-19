@@ -1,5 +1,0 @@
-+++
-title = "ur mom"
-+++
-
-gjkladgjadklg
