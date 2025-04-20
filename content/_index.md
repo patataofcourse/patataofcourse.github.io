@@ -13,4 +13,4 @@ Most of the things I do are based around coding in Rust in some way or another b
 
 If you need anything from me, you can contact me on Discord under `@patataofcourse`, or Bluesky under `@thepatat.bsky.social`. I don't really check anything else, so if you DM me on, like, Tumblr or Reddit, chances are, I'll take five years to answer.
 
-This is very much a wip! Currently I'm only really gonna use this for the [blog](./blog), so, keep in mind that this is not in any kind of way a finished website xp
+This is very much a wip! Currently I'm only really gonna use this for the [blog](./blog/), so, keep in mind that this is not in any kind of way a finished website xp
