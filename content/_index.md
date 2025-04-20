@@ -5,7 +5,7 @@ template = "after-dark/templates/section.html"
 
 hiiiiiiii
 
-Name's patataofcourse (please don't capitalize it lmao), but you can call me patat, patata, pat, patatatatatatatat, or any variation thereof. Pronouns are they/xe!
+Name's patataofcourse (please don't capitalize it lmao), but you can call me patat, patata, patatatatatatatat, or any variation thereof. Pronouns are they/xe!
 
 I'm mainly a 3DS and DS modder, but I dabble in GBA and other Nintendo consoles from time to time. I also like spending my time looking up various things that interest me, and you'll find commits or issues by me in the randomest of places, honestly.
 
