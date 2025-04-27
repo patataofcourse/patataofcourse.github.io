@@ -9,7 +9,7 @@ Or the tale of how the 3DS' filesystem is a complex pile of a million different 
 
 Fun!
 
-<!--If you just want a guide, check [here](link-here).-->
+If you just want a guide, check [here](https://plvspwaa-dlc-guide.pydraxalpta.com).
 
 <!-- more -->
 
@@ -105,7 +105,7 @@ I gathered from comparing my files with Pyras' that this was definitely some sor
 
 And hey, it worked! Changing the title ID to whichever version I was trying to run didn't cause me any issues, and scrubbing whatever that ID was didn't cause any issues either. So, I needed to distribute four copies of basically the same file, but the data is like 1600 bytes in total already so it's not really an issue.
 
-So, this is where we're at right now. I've asked Pyras to update their guide with this new information. There's a chance that when you read this, it's already updated, so check it out! I really appreciate them documenting this, because otherwise I wouldn't have found myself in that GBAtemp post that told me that what I wanted to do wasn't some sort of pipe dream I had to do by myself or something.
+So, this is where we're at right now. I've asked Pyras to update their guide with this new information. ~~There's a chance that when you read this, it's already updated, so check it out!~~ (Edit: it's updated! thanks pyras) I really appreciate them documenting this, because otherwise I wouldn't have found myself in that GBAtemp post that told me that what I wanted to do wasn't some sort of pipe dream I had to do by myself or something.
 
 The only possible issue I can think of at this point is the Japanese version being coded completely different somehow, which wouldn't surprise me considering there was a two-year gap between the release of this game in Japan and overseas. [Wouldn't be the first time I encountered this, either](https://rhwiki.net/wiki/Rhythm_Heaven_Megamix). (If you want more details on that, I'll try to get some Rhythm Heaven modding blog posts out somewhat soon. Hopefully earlier than the time it took me to make this one post.)
 
